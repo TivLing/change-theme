@@ -1,3 +1,5 @@
+# 通过 webpack 配置全局修改主题色
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
